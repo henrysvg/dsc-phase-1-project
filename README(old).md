@@ -30,6 +30,14 @@ It is up to you to decide what data from this to use and how to use it. If you w
 * imdb.title.ratings
 * bom.movie_gross
 
+#Graph the average IMDB rating by genre using seaborn
+ax = sns.barplot(data=df2_genres, x = 'new_genres', y = 'averagerating',
+                order = genre_ratings_mean.index)
+ax.set_title('Avg IMDB Rating')
+ax.set(xlabel="Genres", ylabel = "Avg IMDB Rating")
+sns.set(rc={'figure.figsize':(11.7,8.27)})
+ax.set_xticklabels(ax.get_xticklabels(), rotation = 45, ha = 'right');
+
 ## Deliverables
 
 There are three deliverables for this project:
