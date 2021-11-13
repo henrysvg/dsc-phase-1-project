@@ -60,7 +60,7 @@ Review the "Project Submission & Review" page in the "Milestones Instructions" t
 
 Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
 
-![Genres_Domestic_Gross](./image/Genres_Domestic_Gross.png)
+![Genres_Domestic_Gross](./Image/Genres_Domestic_Gross.png)
 
 Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
 
