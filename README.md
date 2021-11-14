@@ -28,15 +28,15 @@ After merging the necessary tables together, the data was in a place where analy
 
 Sci-Fi Averages the highest domestic gross:
 
-![Genres_Domestic_Gross](./Image/Genres_Domestic_Gross)
+![Genres_Domestic_Gross.png](./Image/Genres_Domestic_Gross.png)
 
 Documentaries has the highest average IMDB score:
 
-![Genres_IMDB_Rating](./Image/Genres_IMDB_Rating)
+![Genres_IMDB_Rating.png](./Image/Genres_IMDB_Rating.png)
 
 A runtime that is between 100 and 150 minutes produces the highest domestic gross:
 
-![Runtime_Domestic_Gross](./Image/Runtime_Domestic_Gross)
+![Runtime_Domestic_Gross.png](./Image/Runtime_Domestic_Gross.png)
 
 ## Evaluations
 
