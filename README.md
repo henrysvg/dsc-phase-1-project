@@ -22,7 +22,7 @@ This project utilizes descriptive and predictive analysis.  This provides and ov
 
 ## Data Anlysis
 
-After merging the necessary tables together, the data was in a place where analysis could be begun.  Utilizing pandas, the data was able to get to aplace wher visualizations were created with seaborn.
+After merging the necessary tables together, the data was in a place where analysis could be begun.  Utilizing pandas, the data was able to get to a place where visualizations were created with seaborn.
 
 ## Results
 
