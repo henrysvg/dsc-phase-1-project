@@ -10,7 +10,7 @@ This project analyzes data from the biggest movie related websites to help Micro
 
 ## Business Problem
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. This project explores what types of genres are currently doing the best at the box office with Domestic Gross as well as scoring the highest on IMDB.  Ths project also looks at runtime in comparison to domestic gross.  Utilizing this information, microsoft will be given three business recommendations to utlize as they enter this world.
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. This project explores what types of genres are currently doing the best at the box office with Domestic Gross as well as scoring the highest on IMDB.  Ths project also looks at runtime in comparison to domestic gross.  Utilizing this information, microsoft will be given three business recommendations to utilize as they enter this world.
 
 ## Data Understanding
 
@@ -44,7 +44,7 @@ The work which I have provided above will help with the business problem given. 
 
 ## Conclusions
 
-This analysis leads to three recommendations on where Micorsoft should focus in the film industry:
+This analysis leads to three recommendations on where Microsoft should focus in the film industry when creating original content:
 
 - Focus on the top three genres who average the highest domestic gross.  The following genres in order are Sci-Fi, Adventure, and Animation.
 - Regarding how films are rated, it is worth noting that Sci-Fi, even though averaging the highest domestic gross falls in the middle of the pack when it comes to IMDB Score.  Documentaries, Biographies, and History have the highest IMDB Score.
